@@ -14,7 +14,7 @@ Criar uma API que leia os dados da API do Google Maps e salve as Média das Aval
 
 Os dados capturados dos locais do Google, devem ser inseridos em um Banco de Dados MongoDB.
 
-Deve possuír um endpoint na API para realizar a leitura e comparar as médias e quantidades de avaliações entre todos os locais.
+Deve possuir um endpoint na API para realizar a leitura e comparar as médias e quantidades de avaliações entre todos os locais.
 
 Documentação do Google Maps: https://developers.google.com/places/web-service/details#PlaceDetailsResults
 
@@ -28,7 +28,6 @@ Também seria intessante se pudessemos inserir mais locais através de um endpoi
 ### O que nós ficaríamos felizes de ver em seu teste
 * Uso de TypeScript
 * Tarefas rodando em background de x em x horas para atualizar os dados do banco de dados
-* 
 
 
 ### O que nos impressionaria
